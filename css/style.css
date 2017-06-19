@@ -114,7 +114,8 @@ legend {
 }
 
 body {
-    font-family: Helvetica, Arial, '微軟正黑體', sans-serif;
+    // font-family: Helvetica, Arial, '微軟正黑體', sans-serif;
+    font-family: PingFang SC, Lantinghei SC, Microsoft Yahei, Hiragino Sans GB, Microsoft Sans Serif, WenQuanYi Micro Hei, sans-serif;
     line-height: 1.5;
     font-size: 1.4rem;
     text-align: left;
